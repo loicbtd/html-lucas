@@ -1,0 +1,14 @@
+/* BEGIN: title style */
+span {
+    /* font-size: 100px; */
+    font-size: 1.3em;
+}
+/* END: title style */
+
+.truc {
+    color: red!important;
+}
+
+#mon-span-hello {
+    color: green;
+}
